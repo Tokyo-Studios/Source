@@ -6,4 +6,6 @@ The code source of discord bots (discord.js v12)
 
 **Put in it**
 token= your bot token
+
+
 prefix= your prefix 
