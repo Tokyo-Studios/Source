@@ -11,3 +11,7 @@ token= your bot token
 
 
 prefix= your prefix 
+
+
+
+**And don't forget to download the packages**
